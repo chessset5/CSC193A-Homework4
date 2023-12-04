@@ -9,7 +9,7 @@ This is a webpage made for my computer science web design class
 Where? How? have you been testing your website so far... In this week's assignment -- you'll use
 Github. You may have been following this:
 
-![python server](https://raw.githubusercontent.com/chessset5/CSC193A-Homework4/main/images/Screen%20Shot%202021-02-07%20at%209.40.24%20PM.png){width=50px}
+![python server](https://raw.githubusercontent.com/chessset5/CSC193A-Homework4/main/images/Screen%20Shot%202021-02-07%20at%209.40.24%20PM.png)
 
 ## But do the following for this week's discussion post.
 
