@@ -1,3 +1,22 @@
-top-paragraph {
+#top-paragraph {
   font-family: "Times New Roman", Times, serif, "Roboto", sans-serif;
+}
+
+body {
+  background-color: #ffffff; /* white background */
+  color: #000; /* black text */
+  font-family: Roboto, sans-serif; /* roboto is preferred font */
+}
+
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+#robo-bold {
+  font-weight: bold; /* Sets the font weight to bold */
+  font-family: Roboto-Bold, sans-serif; /* Set your preferred font */
+  color: black; /* Sets the text color to blue (you can change this to your preferred color) */
+  /* Add more styles as needed */
 }
