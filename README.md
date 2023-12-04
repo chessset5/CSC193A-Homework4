@@ -17,8 +17,7 @@ Create a Github account, and follow the links below to create a simple site (exa
 
 **https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site**
 
-**https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5#:~:text=GitHub%20is%20not%20only%20a,%2C%20CSS%2C%20and%20Java
-Script%20projects!**
+**https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5#:~:text=GitHub%20is%20not%20only%20a,%2C%20CSS%2C%20and%20JavaScript%20projects!**
 
 You can use vscode along with Github. vscode to test and Github to host.
 
